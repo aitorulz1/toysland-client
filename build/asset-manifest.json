@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7bd9626f.chunk.css",
+    "main.js": "/static/js/main.33c0a38c.chunk.js",
+    "main.js.map": "/static/js/main.33c0a38c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d3fb518b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d3fb518b.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.2d2021b2.chunk.js": "/static/js/2.2d2021b2.chunk.js",
+    "static/js/2.2d2021b2.chunk.js.map": "/static/js/2.2d2021b2.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1d032de1583a7e79983ae211b52e61fa.js": "/precache-manifest.1d032de1583a7e79983ae211b52e61fa.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.7bd9626f.chunk.css.map": "/static/css/main.7bd9626f.chunk.css.map",
+    "static/js/2.2d2021b2.chunk.js.LICENSE": "/static/js/2.2d2021b2.chunk.js.LICENSE",
+    "static/media/aire-libre.jpg": "/static/media/aire-libre.8a796616.jpg",
+    "static/media/comics.jpg": "/static/media/comics.b77349aa.jpg",
+    "static/media/consolas.jpg": "/static/media/consolas.634b7b79.jpg",
+    "static/media/construccion.jpg": "/static/media/construccion.2b20c659.jpg",
+    "static/media/disfraces.jpg": "/static/media/disfraces.0bdaa253.jpg",
+    "static/media/harlow.ttf": "/static/media/harlow.208c60a0.ttf",
+    "static/media/libros.jpg": "/static/media/libros.ce0632c8.jpg",
+    "static/media/mesa.jpg": "/static/media/mesa.d456ccb0.jpg",
+    "static/media/monkey.jpg": "/static/media/monkey.120bca48.jpg",
+    "static/media/patinete.jpg": "/static/media/patinete.f410a377.jpg",
+    "static/media/peluches.jpg": "/static/media/peluches.0b195fb5.jpg",
+    "static/media/ps.jpg": "/static/media/ps.17213cca.jpg",
+    "static/media/puzzle.jpg": "/static/media/puzzle.061c48a8.jpg",
+    "static/media/rollers.jpg": "/static/media/rollers.9f0d6c21.jpg",
+    "static/media/teledirigido.jpg": "/static/media/teledirigido.8d8ec2cd.jpg",
+    "static/media/vintage-mazinger.jpg": "/static/media/vintage-mazinger.78af4edb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3fb518b.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.2d2021b2.chunk.js",
+    "static/css/main.7bd9626f.chunk.css",
+    "static/js/main.33c0a38c.chunk.js"
+  ]
+}
